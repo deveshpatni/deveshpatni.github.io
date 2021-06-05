@@ -69,7 +69,7 @@
         "Django",
         "MySql",
         "MongoDB",
-        "Android App Development"
+        "App Development"
       ]
     },
     {
@@ -104,7 +104,7 @@
       "website": "",
       "startDate": "Dec-2018",
       "endDate": "Apr-2020",
-      "summary": "Software Enginner mainly working on Python and Nodejs",
+      "summary": "",
       "highlights": [
         "Worked on Lead Management System and other services like CRM, SSO",
         "Configured multiple modules as per the client requirement"
@@ -134,10 +134,6 @@
         "Focused on development of backend system"
       ]
     }
-  ],
-  "volunteer": [
-  ],
-  "awards": [
   ],
   "references": [
     {
